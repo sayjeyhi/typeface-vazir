@@ -1,0 +1,24 @@
+{
+  "name": "typeface-vazir",
+  "version": "1.0.01",
+  "description": "Easy to use font family",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafar-rezaei/typeface-vazir.git"
+  },
+  "keywords": [
+    "fontfamily",
+    "lalezar",
+    "typeface"
+  ],
+  "author": "JafarRezaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jafar-rezaei/typeface-vazir/issues"
+  },
+  "homepage": "https://github.com/jafar-rezaei/typeface-vazir#readme"
+}
