@@ -1,4 +1,8 @@
-Typeface package for Vazir font
+# Easy to use vazir typeface
+
+> 😄 use me with npm install
+
+Typeface package for Vazir font with [typography.js](https://github.com/KyleAMathews/typography.js)
 
 ```bash
 npm i -S typeface-vazir
